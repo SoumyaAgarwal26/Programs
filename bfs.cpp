@@ -22,7 +22,6 @@ void bfs(int s, vector<int> adj[], bool vis[], int N)
         
     }
 }
-
 int main()
 {
     int T;
