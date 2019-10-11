@@ -35,7 +35,6 @@ bool isCyclic(int V, vector<int> adj[])
 
     return false;
 }
-
 int main() {
 	
 	int t;
